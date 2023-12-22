@@ -5,3 +5,5 @@ service_type: cluster_cloud_prd_only
 lb_mode: global-availability
 resumemethod: Auto
 failovermethod: Auto
+number_of_pools_in_wideip: 2
+number_of_servers_in_pool: 1
