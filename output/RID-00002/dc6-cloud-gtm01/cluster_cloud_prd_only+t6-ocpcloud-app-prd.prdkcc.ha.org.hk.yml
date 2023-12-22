@@ -1,0 +1,7 @@
+device_hostname: dc6-cloud-gtm01
+tsr_no: RID-00002
+fqdn: t6-ocpcloud-app-prd.prdkcc.ha.org.hk
+service_type: cluster_cloud_prd_only
+lb_mode: round-robin
+resumemethod: Auto
+failovermethod: Auto

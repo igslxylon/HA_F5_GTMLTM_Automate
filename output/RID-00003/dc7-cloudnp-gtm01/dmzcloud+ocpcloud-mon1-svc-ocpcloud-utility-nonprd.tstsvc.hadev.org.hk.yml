@@ -1,0 +1,7 @@
+device_hostname: dc7-cloudnp-gtm01
+tsr_no: RID-00003
+fqdn: ocpcloud-mon1-svc-ocpcloud-utility-nonprd.tstsvc.hadev.org.hk
+service_type: dmzcloud
+lb_mode: round-robin
+resumemethod: Auto
+failovermethod: Auto

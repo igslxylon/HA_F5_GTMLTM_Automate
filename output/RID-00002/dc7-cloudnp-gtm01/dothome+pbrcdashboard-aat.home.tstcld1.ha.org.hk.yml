@@ -1,0 +1,7 @@
+device_hostname: dc7-cloudnp-gtm01
+tsr_no: RID-00002
+fqdn: pbrcdashboard-aat.home.tstcld1.ha.org.hk
+service_type: dothome
+lb_mode: round-robin
+resumemethod: Auto
+failovermethod: Auto

@@ -1,0 +1,6 @@
+device_hostname: dc7-cloudnp-gtm01
+tsr_no: RID-00002
+fqdn: aiops-chatops-redis-aiops-corp-chatops-lpt.tstcld1.hadev.org.hk
+service_type: nonwebservice
+resumemethod: Auto
+failovermethod: Auto

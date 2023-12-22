@@ -1,0 +1,7 @@
+device_hostname: hkch-cloudnp-gtm01
+tsr_no: RID-00002
+fqdn: eai-mllp-integrationsuite-sit.tstcld1.ha.org.hk
+service_type: mllp
+lb_mode: round-robin
+resumemethod: Auto
+failovermethod: Auto

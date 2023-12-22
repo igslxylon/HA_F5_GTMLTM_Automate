@@ -1,0 +1,6 @@
+device_hostname: hkch-cloudnp-gtm01
+tsr_no: RID-00001
+fqdn: aiops-chatops-redis-aiops-corp-chatops-sit.tstcld1.hadev.org.hk
+service_type: nonwebservice
+resumemethod: Auto
+failovermethod: Auto
